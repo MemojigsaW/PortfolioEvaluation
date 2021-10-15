@@ -1,0 +1,16 @@
+{
+  "allowedTickers": [
+    "A", "AAPL",	"ABC",	"ABT",	"ADBE",	"ADI",	"ADM",	"ADP",	"ADSK",	"AEE",	"AEP",	"AES",	"AG",	"AGCO",	"AIG",	"AIV",	"AIZ",	"AKAM",	"ALL",	"AMAT",	"AMD",	"AMGN",	"AMP",	"AMT",	"AMZN",	"AN",	"ANF",	"AON",	"APA",	"APD",	"APH",	"ATI",	"AVB",	"AVY",	"AZO",	"BA",	"BAC",	"BAX",	"BBBY",	"BBY",	"BDX",	"BEN",	"BH",	"BIG",	"BIIB",	"BK",	"BLL",	"BMY",	"BSX",	"BXP",	"C",	"CAG",	"CAH",	"CAT",	"CCL",	"CF",	"CHRW",	"CI",	"CINF",	"CL",	"CLF",	"CLX",	"CMA",	"CMCSA",	"CMI",	"CMS",	"CNP",	"CNX",	"COF",	"COG",	"COHU",	"COP",	"COST",	"CPB",	"CRM",	"CSCO",	"CSX",	"CTAS",	"CTSH",	"CTXS",	"CVS",	"CVX",	"D",	"DE",	"DGX",	"DHI",	"DHR",	"DIS",	"DOV",	"DRI",	"DTE",	"DUK",	"DVA",	"DVN",	"EBAY",	"ECL",	"ED",	"EFX",	"EIX",	"EL",	"EMN",	"EMR",	"EOG",	"EQR",	"EQT",	"ETN",	"ETR",	"EXC",	"EXPD",	"EXPE",	"F",	"FAST",	"FCX",	"FDX",	"FE",	"FHN",	"FIS",	"FISV",	"FITB",	"FLIR",	"FLR",	"FLS",	"FMC",	"FSLR",	"GD",	"GILD",	"GIS",	"GLW",	"GME",	"GNW",	"GPC",	"GPS",	"GS",	"GT",	"GWW",	"HAL",	"HAS",	"HBAN",	"HCN",	"HD",	"HES",	"HIG",	"HOG",	"HON",	"HPQ",	"HRB",	"HRL",	"HST",	"HSY",	"HUM",	"IBM",	"ICE",	"IFF",	"INTU",	"IP",	"IPG",	"IRM",	"ISRG",	"ITT",	"ITW",	"IVZ",	"JBL",	"JNJ",	"JNPR",	"JPM",	"JWN",	"K",	"KEY",	"KIM",	"KLAC",	"KMB",	"KO",	"KR",	"KSS",	"L",	"LEG",	"LH",	"LLY",	"LNC",	"LOW",	"LUV",	"M",	"MA",	"MAR",	"MAS",	"MAT",	"MCD",	"MCHP",	"MCK",	"MCO",	"MDP",	"MDT",	"MMC",	"MMM",	"MO",	"MRK",	"MRO",	"MS",	"MSFT",	"MTZ",	"MU",	"MUR",	"NBR",	"NDAQ",	"NEE",	"NEM",	"NI",	"NKE",	"NOV",	"NRG",	"NSC",	"NTAP",	"NTRS",	"NUE",	"NVDA",	"NWL",	"NYT",	"ODP",	"OI",	"OMC",	"ORCL",	"ORLY",	"OXY",	"PAYX",	"PBCT",	"PBI",	"PCAR",	"PCG",	"PDCO",	"PEG",	"PEP",	"PFE",	"PFG",	"PG",	"PGR",	"PH",	"PHM",	"PKI",	"PM",	"PNC",	"PNW",	"PPG",	"PPL",	"PRU",	"PSA",	"PWR",	"PXD",	"R",	"RHI",	"RL",	"RLH",	"ROK",	"ROP",	"ROST",	"RRC",	"RRD",	"RSG",	"SBUX",	"SEE",	"SHW",	"SJM",	"SLM",	"SNA",	"SO",	"SPG",	"SRCL",	"SRE",	"STT",	"SWK",	"SWN",	"SYK",	"SYY",	"T",	"TDC",	"TER",	"TGT",	"THC",	"TIF",	"TJX",	"TMO",	"TROW",	"TSN",	"TXN",	"TXT",	"UNH",	"UNP",	"UPS",	"USB",	"VAR",	"VFC",	"VLO",	"VMC",	"VNO",	"VRSN",	"VTR",	"VZ",	"WAT",	"WDC",	"WEC",	"WFC",	"WHR",	"WM",	"WMB",	"WMT",	"WU",	"WY",	"WYNN",	"XEL",	"XLNX",	"XOM",	"XRAY",	"XRX",	"YUM",	"ZION"
+  ],
+  "model_options": ["MVO", "RMVO", "ERC"],
+  "rmvo_options": ["box", "ellipse"],
+  "PYenv": "C:\\Users\\Alan\\Anaconda3\\envs\\VE\\python.exe",
+  "MRjar": "C:\\Users\\Alan\\Desktop\\Projects\\PortfolioEval\\MapReduce\\out\\artifacts\\MapReduce_jar\\MapReduce.jar",
+  "PYScript": "C:\\Users\\Alan\\Desktop\\Projects\\PortfolioEval\\CvxOpt",
+  "hdfs_input": "/user/Alan/projectInput",
+  "hdfs_output": "/user/Alan/projectOutput",
+  "file_Loc": "C:\\Users\\Alan\\Desktop\\Projects\\PortfolioEval\\Data",
+  "min_date": "01/01/2010",
+  "max_date": "12/31/2020"
+}
+

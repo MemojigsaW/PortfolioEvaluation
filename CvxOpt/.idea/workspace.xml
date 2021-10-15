@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="45519d9e-7f93-4910-aa53-bdc6e7489926" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1z21pCrLqCvkabUAXuPcPtP7FXq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../UTY5/S3/APS1022/Pr2/APS1022P2" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Alan\Desktop\Projects\PortfolioEval\CvxOpt\Scripts" />
+      <recent name="C:\Users\Alan\Desktop\Projects\PortfolioEval\CvxOpt\TestingScripts" />
+      <recent name="C:\Users\Alan\Desktop\Projects\PortfolioEval\CvxOpt\LoadingScripts" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration name="TestRet" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CvxOpt" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Scripts/TestingScripts" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Scripts/TestingScripts/TestRet.py" />
+      <option name="PARAMETERS" value="01/01/2011 01/01/2013 06/01/2015 A AAPL ABC ABT ADBE ADI ADM ADP ADSK AEE" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CvxOpt" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="C:\Users\Alan\Desktop\Projects\PortfolioEval\config.json 01/01/2015 01/01/2017 01/01/2019 MVO 10 False -1 1.5 box 0.99 MSFT AMZN AAPL NVDA CTAS ORLY ORCL EBAY GIS PKI" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.TestRet" />
+      <item itemvalue="Python.main" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.TestRet" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="45519d9e-7f93-4910-aa53-bdc6e7489926" name="Default Changelist" comment="" />
+      <created>1633331548086</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1633331548086</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="98" y="177" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1634210821391">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="98" y="177" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1368.872/2736.0.1536.824@0.0.1368.872" timestamp="1634200818316" />
+    <state x="98" y="177" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1368.872@0.0.1368.872" timestamp="1634210821391" />
+    <state x="465" y="192" key="FileChooserDialogImpl" timestamp="1633332216230">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="465" y="192" key="FileChooserDialogImpl/0.0.1368.872/2736.0.1536.824@0.0.1368.872" timestamp="1633332216230" />
+    <state width="1348" height="318" key="GridCell.Tab.0.bottom" timestamp="1634211279052">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="1348" height="318" key="GridCell.Tab.0.bottom/0.0.1368.872/2736.0.1536.824@0.0.1368.872" timestamp="1634201436895" />
+    <state width="1348" height="318" key="GridCell.Tab.0.bottom/0.0.1368.872@0.0.1368.872" timestamp="1634211279052" />
+    <state width="1348" height="318" key="GridCell.Tab.0.center" timestamp="1634211279052">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="1348" height="318" key="GridCell.Tab.0.center/0.0.1368.872/2736.0.1536.824@0.0.1368.872" timestamp="1634201436893" />
+    <state width="1348" height="318" key="GridCell.Tab.0.center/0.0.1368.872@0.0.1368.872" timestamp="1634211279052" />
+    <state width="1348" height="318" key="GridCell.Tab.0.left" timestamp="1634211279051">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="1348" height="318" key="GridCell.Tab.0.left/0.0.1368.872/2736.0.1536.824@0.0.1368.872" timestamp="1634201436892" />
+    <state width="1348" height="318" key="GridCell.Tab.0.left/0.0.1368.872@0.0.1368.872" timestamp="1634211279051" />
+    <state width="1348" height="318" key="GridCell.Tab.0.right" timestamp="1634211279052">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="1348" height="318" key="GridCell.Tab.0.right/0.0.1368.872/2736.0.1536.824@0.0.1368.872" timestamp="1634201436895" />
+    <state width="1348" height="318" key="GridCell.Tab.0.right/0.0.1368.872@0.0.1368.872" timestamp="1634211279052" />
+    <state width="1348" height="281" key="GridCell.Tab.1.bottom" timestamp="1634188232152">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="1348" height="281" key="GridCell.Tab.1.bottom/0.0.1368.872/2736.0.1536.824@0.0.1368.872" timestamp="1634188232152" />
+    <state width="1348" height="281" key="GridCell.Tab.1.center" timestamp="1634188232152">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="1348" height="281" key="GridCell.Tab.1.center/0.0.1368.872/2736.0.1536.824@0.0.1368.872" timestamp="1634188232152" />
+    <state width="1348" height="281" key="GridCell.Tab.1.left" timestamp="1634188232152">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="1348" height="281" key="GridCell.Tab.1.left/0.0.1368.872/2736.0.1536.824@0.0.1368.872" timestamp="1634188232152" />
+    <state width="1348" height="281" key="GridCell.Tab.1.right" timestamp="1634188232152">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="1348" height="281" key="GridCell.Tab.1.right/0.0.1368.872/2736.0.1536.824@0.0.1368.872" timestamp="1634188232152" />
+    <state x="186" y="80" key="SettingsEditor" timestamp="1633331887402">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="186" y="80" key="SettingsEditor/0.0.1368.872/2736.0.1536.824@0.0.1368.872" timestamp="1633331887402" />
+    <state x="380" y="262" key="com.intellij.ide.util.TipDialog" timestamp="1634210736744">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="380" y="262" key="com.intellij.ide.util.TipDialog/0.0.1368.872/2736.0.1536.824@0.0.1368.872" timestamp="1634208493758" />
+    <state x="380" y="262" key="com.intellij.ide.util.TipDialog/0.0.1368.872@0.0.1368.872" timestamp="1634210736744" />
+    <state x="2784" y="174" width="1023" height="331" maximized="true" key="dock-window-1" timestamp="1633567802848">
+      <screen x="2736" y="0" width="1536" height="824" />
+    </state>
+    <state x="2784" y="174" width="1023" height="331" maximized="true" key="dock-window-1/0.0.1368.872/2736.0.1536.824@0.0.1368.872" timestamp="1633567802848" />
+    <state x="2854" y="79" width="1023" height="758" maximized="true" key="dock-window-2" timestamp="1633573045242">
+      <screen x="2736" y="0" width="1536" height="824" />
+    </state>
+    <state x="2854" y="79" width="1023" height="758" maximized="true" key="dock-window-2/0.0.1368.872/2736.0.1536.824@0.0.1368.872" timestamp="1633573045242" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="index" language="Python" />
+        <watch expression="result" language="Python" />
+        <watch expression="result[1]" language="Python" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

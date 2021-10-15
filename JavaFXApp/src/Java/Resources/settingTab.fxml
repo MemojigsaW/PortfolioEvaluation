@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.CheckBox?>
+<?import javafx.scene.control.ComboBox?>
+<?import javafx.scene.control.DatePicker?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane prefHeight="700.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/16" xmlns:fx="http://javafx.com/fxml/1" fx:controller="Java.Controller.SettingCon">
+   <children>
+      <DatePicker fx:id="dateEnd" layoutX="377.0" layoutY="46.0" />
+      <DatePicker fx:id="dateStart" layoutX="32.0" layoutY="46.0" />
+      <Text layoutX="32.0" layoutY="35.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Train Start" />
+      <Text layoutX="377.0" layoutY="35.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Test End" />
+      <DatePicker fx:id="dateMiddle" layoutX="32.0" layoutY="114.0" />
+      <Text layoutX="32.0" layoutY="97.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Train End/Test Start" />
+      <ComboBox fx:id="modelType" layoutX="32.0" layoutY="195.0" prefHeight="25.0" prefWidth="174.0" />
+      <Text layoutX="32.0" layoutY="183.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Model" />
+      <Pane fx:id="controlPane" layoutX="32.0" layoutY="250.0" prefHeight="246.0" prefWidth="528.0">
+         <children>
+            <Text layoutX="14.0" layoutY="195.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Uncertainty Set Assumption" />
+            <ComboBox fx:id="rmvoType" layoutX="14.0" layoutY="207.0" prefHeight="25.0" prefWidth="174.0" />
+            <TextField fx:id="lambdaField" layoutX="14.0" layoutY="36.0" prefHeight="25.0" prefWidth="174.0" />
+            <Text layoutX="14.0" layoutY="123.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Norm-d" />
+            <Text layoutX="305.0" layoutY="123.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Norm bound" />
+            <TextField fx:id="normDField" layoutX="14.0" layoutY="136.0" prefHeight="25.0" prefWidth="174.0" />
+            <Text layoutX="14.0" layoutY="27.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Lambda for risk tolerance" />
+            <TextField fx:id="normBoundField" layoutX="306.0" layoutY="136.0" prefHeight="25.0" prefWidth="174.0" />
+            <CheckBox fx:id="shortingCheck" layoutX="306.0" layoutY="40.0" mnemonicParsing="false" text="Shorting" />
+            <CheckBox fx:id="normCheck" layoutX="14.0" layoutY="79.0" mnemonicParsing="false" text="Norm constraint" />
+            <TextField fx:id="confField" layoutX="306.0" layoutY="207.0" prefHeight="25.0" prefWidth="174.0" />
+            <Text layoutX="305.0" layoutY="196.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Confidence Interval" />
+         </children>
+         <opaqueInsets>
+            <Insets />
+         </opaqueInsets>
+      </Pane>
+   </children>
+</AnchorPane>

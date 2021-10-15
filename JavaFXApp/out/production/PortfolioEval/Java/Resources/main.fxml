@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Tab?>
+<?import javafx.scene.control.TabPane?>
+
+<TabPane fx:controller="Java.Controller.MainCon" maxHeight="700" maxWidth="600" minHeight="700"
+         minWidth="600" prefHeight="700.0" prefWidth="600.0" tabClosingPolicy="UNAVAILABLE"
+         xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/16">
+    <tabs>
+        <Tab text="Nodes Status" fx:id="statusTab">
+            <fx:include fx:id="hdfsStatus" source="statusTab.fxml"/>
+        </Tab>
+        <Tab text="Settings" fx:id="settingTab">
+            <fx:include source="loadingScreen.fxml"/>
+            <!--          <fx:include source="settingTab.fxml"/>-->
+        </Tab>
+        <Tab text="Portfolio" fx:id="portfolioTab">
+            <!--          <fx:include source="weightingTab.fxml"/>-->
+            <fx:include source="loadingScreen.fxml"/>
+
+        </Tab>
+        <Tab text="Result" fx:id="resultTab">
+            <!--          <fx:include source="resultTab.fxml"/>-->
+            <fx:include source="loadingScreen.fxml"/>
+
+        </Tab>
+    </tabs>
+</TabPane>

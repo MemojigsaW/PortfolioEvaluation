@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.chart.CategoryAxis?>
+<?import javafx.scene.chart.LineChart?>
+<?import javafx.scene.chart.NumberAxis?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane prefHeight="700.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/16" xmlns:fx="http://javafx.com/fxml/1" fx:controller="Java.Controller.ResultCon">
+   <children>
+      <TableView fx:id="tickerTable" layoutX="25.0" layoutY="22.0" prefHeight="264.0" prefWidth="554.0">
+        <columns>
+          <TableColumn fx:id="tickerColumn" prefWidth="373.5" text="Ticker" />
+          <TableColumn fx:id="weightColumn" minWidth="0.0" prefWidth="179.5" text="Weight" />
+        </columns>
+      </TableView>
+      <LineChart fx:id="lineChart" layoutX="26.0" layoutY="327.0" prefHeight="355.0" prefWidth="554.0" stylesheets="@chartStyling.css">
+        <xAxis>
+          <CategoryAxis side="BOTTOM" />
+        </xAxis>
+        <yAxis>
+          <NumberAxis side="LEFT" />
+        </yAxis>
+      </LineChart>
+      <Text layoutX="239.0" layoutY="309.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Test Range Performance" />
+   </children>
+</AnchorPane>

@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MapReduce:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MapReduce_jar</output-path>
+    <root id="archive" name="MapReduce.jar">
+      <element id="module-output" name="MapReduce" />
+      <element id="extracted-dir" path="C:/hadoop-3.3.0/share/hadoop/common/hadoop-common-3.3.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/hadoop-3.3.0/share/hadoop/mapreduce/hadoop-mapreduce-client-core-3.3.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
